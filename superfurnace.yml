@@ -1,0 +1,9 @@
+# 权限对应表
+# 高级在上, 低级在下
+Permission:
+  # 权限名: 倍数
+  # 判断权限:（gamecore.superfurnace.mvip+）
+  mvip+: 8
+  mvip: 6
+  vip+: 4
+  vip: 2

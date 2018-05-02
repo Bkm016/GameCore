@@ -1,0 +1,10 @@
+name: GameCore
+main: me.skymc.gamecore.GameCore
+version: 1.0-SNAPSHOT
+
+author: [坏黑]
+depend: [TabooLib]
+
+commands:
+  gamecore:
+    permission: gamecore.command
